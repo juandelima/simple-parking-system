@@ -1,0 +1,24 @@
+Tolong gunakan plugin cors pada browser.
+Karena saya membuatnya secara terpisah.
+
+Untuk menjalankan front-end gunakan web-server for chrome: 
+https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
+
+
+Untuk backend laravel hanya API nya saja, namun untuk front end saya menggunakan
+template neon. Untuk komunikasi dengan API nya saya menggunakan Javascript(ES6)
+dengan menerapkan class dan modul javascript.
+
+untuk code javascript yang saya buat bagian front-endnya berada di direktori
+js > custom-js
+
+
+untuk login admin:
+username: juanvaleriand
+password: juan123456
+
+untuk login user:
+username: bastiandelima
+password: bastian123456
+
+Terima kasih :)
